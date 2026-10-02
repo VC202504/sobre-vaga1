@@ -14,6 +14,10 @@ Plataforma de gestão de mão de obra terceirizada para prefeituras e órgãos p
 - App do trabalhador instalável (PWA), com cadastro próprio, documentos e termo de aceite
 - Acessos separados para empresa, gerente e fiscal do contrato
 - O sistema nunca afirma o que não mediu: ponto sem local definido aparece como não verificado
+- VAGA1 Tarefas, o app de tarefas para empresas: rotinas organizadas por ambiente de trabalho, com checklist do dia para cada funcionário
+- Registro fotográfico da tarefa realizada, com data, hora e coordenadas carimbadas na própria foto
+- Painel do gestor com o percentual cumprido no dia e as fotos de cada tarefa
+- Aviso por e-mail ao responsável (aviso por WhatsApp em implantação)
 
 ## Tecnologia
 
